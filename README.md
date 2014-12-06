@@ -5,4 +5,4 @@ A simple java program displaying the paradox of Benford's Law
 
 To run, download the jar file in this repository.
 
-![image](screenshot.jpg)
+![image](screenshot.png)
